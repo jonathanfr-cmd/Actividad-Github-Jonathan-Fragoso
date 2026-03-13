@@ -1,1 +1,4 @@
-
+Nombre del alumno: Jonathan Fragoso Rivera
+Fecha: 11 de marzo de 2026
+Objetivo de la actividad: Aprender a utilizar Git y GitHub para gestionar versiones de un proyecto y trabajar con repositorios.
+¿Qué es un Pull Request? Un Pull Request es una solicitud para fusionar cambios de una rama a otra dentro de un repositorio en GitHub, permitiendo revisar y aprobar modificaciones antes de integrarlas al proyecto principal.
